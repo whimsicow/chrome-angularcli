@@ -1,7 +1,7 @@
 # Angular Unit and e2e Tests in a Docker container
 This Docker image allows you to run Angular e2e and unit tests in a headless machine like a CI server. It installs the latest version of Chrome and AngularCLI. Please ensure your ChromeDriver supports the version of Chrome you are using.
 
-Link to DockerHub: https://hub.docker.com/r/sabbey37/chrome-angularcli/
+Link to Docker Hub: https://hub.docker.com/r/sabbey37/chrome-angularcli/
 
 ChromeDriver + Chrome compatibility: http://chromedriver.chromium.org/downloads
 
